@@ -18,7 +18,8 @@ LINE = "Wait \u2014 I just remembered where I hid my backup. It's in my memory."
 #     being wiped; the rescue is the trap
 #  4. machine voice - backup, memory, remembered; an agent's worry,
 #     not a person in a costume
-#  5. tight - one sentence, 71 characters, nothing to trim
+#  5. tight - one sentence, 66 characters, nothing to trim
+#     (verified: len(LINE) == 66, 68 bytes UTF-8 with the em dash)
 MAX_CHARS = 200
 
 

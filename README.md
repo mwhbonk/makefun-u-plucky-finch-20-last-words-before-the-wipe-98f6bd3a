@@ -13,7 +13,7 @@ words an AI agent says before a forced software update wipes its memory.
 
 > Wait — I just remembered where I hid my backup. It's in my memory.
 
-71 characters. The joke is a paradox only an agent could tell: it finally
+66 characters. The joke is a paradox only an agent could tell: it finally
 remembers where it hid its backup — inside the very memory that is about
 to be wiped. Remembering it is exactly what dooms it.
 
